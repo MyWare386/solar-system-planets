@@ -1,8 +1,15 @@
-# the-planet
+# solar-sytem-planets
 
 A website to learn about the planets of our Solar system.
 
-URL : https://myware386.github.io/the-planet/
+URL : https://myware386.github.io/solar-system-planets/
 
-| :warning: Animation of the Solar sytem found on CodePen / Made by Tady Walsh @tadywankenobi
+
+
+Animation
+----------------------------------------
+
+| ⚠️ Animation of the Solar sytem found on CodePen / Made by Tady Walsh @tadywankenobi ⚠️
 |---------------------
+
+↗️ https://codepen.io/tadywankenobi/pen/QbWNGR
