@@ -9,6 +9,13 @@ URL : https://myware386.github.io/solar-system-planets/
 
 <br>
 
+News
+----------------------
+
+Note
+-------------------------
+
+
 Animation
 ----------------------------------------
 
