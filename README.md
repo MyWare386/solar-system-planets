@@ -18,6 +18,8 @@ _Something's wrong, I can feel it_
 Note
 -------------------------
 
+- The website isn't finished yet
+
 <br>
 
 Animation
