@@ -12,6 +12,9 @@ URL : https://myware386.github.io/solar-system-planets/
 News
 ----------------------
 _Something's wrong, I can feel it_
+
+<br>
+
 Note
 -------------------------
 
