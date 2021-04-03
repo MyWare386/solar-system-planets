@@ -1,4 +1,4 @@
-# solar-sytem-planets
+# solar-system-planets
 
 A website to learn about the planets of our Solar system.
 
@@ -12,7 +12,8 @@ URL : https://myware386.github.io/solar-system-planets/
 Contents
 ---------------------
 
-- <a href="https://github.com/MyWare386/solar-system-planets#solar-sytem-planets">Contents</a>
+- <a href="https://github.com/MyWare386/solar-system-planets#solar-system-planets">Home</a>
+- <a href="https://github.com/MyWare386/solar-system-planets#contents">Contents</a>
 
 News
 ----------------------
