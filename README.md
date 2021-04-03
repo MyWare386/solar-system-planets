@@ -11,14 +11,12 @@ URL : https://myware386.github.io/solar-system-planets/
 
 News
 ----------------------
-_Something's wrong, I can feel it_
+- 03/04/2021 : _The website is finished and published_
 
 <br>
 
 Note
 -------------------------
-
-- The website isn't finished yet
 
 <br>
 
