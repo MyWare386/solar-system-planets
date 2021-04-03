@@ -4,7 +4,7 @@ A website to learn about the planets of our Solar system.
 
 URL : https://myware386.github.io/solar-system-planets/
 
-| 👷 Work in progress
+| ⚠️ The code doesn't need any changes
 |--------------------
 
 <br>
