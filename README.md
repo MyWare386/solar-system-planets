@@ -26,8 +26,10 @@ Animation
 | ⚠️ Animation of the Solar sytem found on CodePen
 |---------------------
 
-| ⚠️ Animation of the index made by @koworl
+| ⚠️ Animation of the index made by @kowlor
 |---------------------
+
+↗️ https://codepen.io/kowlor/pen/ZYYQoy
 
 | ⚠️ Animation of the index made by @tadywankenobi
 |---------------------
