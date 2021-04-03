@@ -18,7 +18,7 @@ News
 Note
 -------------------------
 
-- _The website_
+- _The website is_
 
 <br>
 
