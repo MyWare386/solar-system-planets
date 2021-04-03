@@ -23,7 +23,13 @@ Note
 Animation
 ----------------------------------------
 
-| ⚠️ Animation of the Solar sytem found on CodePen / Made by Tady Walsh @tadywankenobi ⚠️
+| ⚠️ Animation of the Solar sytem found on CodePen
+|---------------------
+
+| ⚠️ Animation of the index made by @koworl
+|---------------------
+
+| ⚠️ Animation of the index made by @tadywankenobi
 |---------------------
 
 ↗️ https://codepen.io/tadywankenobi/pen/QbWNGR
