@@ -18,7 +18,7 @@ News
 Note
 -------------------------
 
-- _The website is only _
+- _The website is only in english_
 
 <br>
 
