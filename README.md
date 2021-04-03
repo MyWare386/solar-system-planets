@@ -14,6 +14,7 @@ Contents
 
 - <a href="https://github.com/MyWare386/solar-system-planets#solar-system-planets">Home</a>
 - <a href="https://github.com/MyWare386/solar-system-planets#contents">Contents</a>
+- <a href="https://github.com/MyWare386/solar-system-planets#news">News</a>
 
 News
 ----------------------
