@@ -12,7 +12,7 @@ URL : https://myware386.github.io/solar-system-planets/
 Contents
 ---------------------
 
-<a href="">- News</a>
+- <a href="https://github.com/MyWare386/solar-system-planets#solar-sytem-planets">Contents</a>
 
 News
 ----------------------
